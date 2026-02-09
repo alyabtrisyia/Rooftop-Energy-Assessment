@@ -1,4 +1,5 @@
-﻿# Rooftop-Energy-Assessment
+﻿# Rooftop Energy Tech Sdn Bhd
+## Technical Assessment
 
 ### How to run the scripts (Java files) :
 1. Choose any .java file you want to run (e.g., hello.java, div_mod.java)
@@ -41,5 +42,6 @@ I counted character frequencies using a map and then scanned the string again to
 
 **Question 10 (simple_stack.java)**  
 I implemented the stack using an array and a top index so that elements follow Last-In-First-Out behavior. Another alternatie solution is to use an ArrayList but using an array better demonstrates how a stack works internally.
+
 
 
