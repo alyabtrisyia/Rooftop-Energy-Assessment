@@ -1,6 +1,6 @@
-﻿# Rooftop Energy Tech Sdn Bhd - Technical Assessment
+﻿## Rooftop Energy Tech Sdn Bhd - Technical Assessment
 
-## How to run the scripts (Java files) :
+### How to run the scripts (Java files) :
 1. Choose any .java file you want to run (e.g., hello.java, div_mod.java)
 2. Download the file
 3. Open an IDE/text editor such as VS Code, Eclipse, etc
@@ -10,7 +10,7 @@
 Make sure Java (JDK) is installed on your computer before running.
 
 
-## Part 1 - Critical Thinking & Problem Solving  
+### Part 1 - Critical Thinking & Problem Solving  
 **Question 1 (hello.java)**  
 This is the simplest program to confirm output prints correctly.
 
@@ -32,7 +32,7 @@ I sorted the array and scanned backward to find the first value that is differen
 **Question 7 (fizzbuzz.java)**  
 I looped from 1 to 100 and checked divisibility conditions in the correct order to handle all cases properly. I could dynamically build a result string but using if-else conditions is simpler and clearer.
 
-## Bonus Question  
+### Bonus Question  
 **Question 8 (div_mode.java)**  
 I simulated division using repeated substraction to calculate the quotient and remainder without using division operators. Another alternative solution is to use a faster doubling technique but repeated substraction is more simpler. 
 
@@ -41,6 +41,7 @@ I counted character frequencies using a map and then scanned the string again to
 
 **Question 10 (simple_stack.java)**  
 I implemented the stack using an array and a top index so that elements follow Last-In-First-Out behavior. Another alternatie solution is to use an ArrayList but using an array better demonstrates how a stack works internally.
+
 
 
 
